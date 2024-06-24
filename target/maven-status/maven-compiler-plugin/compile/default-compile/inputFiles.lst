@@ -1,0 +1,17 @@
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/service/UserService.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/repository/ChatRoomRepository.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/VTalkApplication.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/config/WebSocketConfig.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/controller/UserController.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/model/Status.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/service/ChatMessageService.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/model/ChatMessage.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/model/ChatNotification.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/security/CorsConfig.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/controller/RoomController.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/model/User.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/repository/UserRepository.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/service/ChatRoomService.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/repository/ChatMessageRepository.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/controller/ChatController.java
+/Users/darshan/VTalk/vtalk-backend/src/main/java/v/talk/model/ChatRoom.java
